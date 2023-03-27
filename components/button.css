@@ -23,6 +23,7 @@
     color : var(--line_color) ;
     letter-spacing : 2px ;
     transition : all .3s ease ;
+
 }
 .button__text{
     display : flex ;
@@ -231,4 +232,5 @@
     justify-content : center ;
     align-items : center ;
     font-family: 'Sue Ellen Francisco', cursive;
+    padding-top: 50px;
 }
