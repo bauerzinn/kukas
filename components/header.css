@@ -1,0 +1,12 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items:center;
+    background-color:#fff;
+    font-family: 'Sue Ellen Francisco', cursive;
+}
+
+.navbar {
+    display: flex;
+    align-items: center;
+}

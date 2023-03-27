@@ -1,0 +1,17 @@
+
+
+.logo {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+    padding-left: 64px;
+  }
+
+
+  
+  .logotx{
+    padding-left: 6px;
+    font-family: 'Sue Ellen Francisco';
+    color: #744748;
+  }
+

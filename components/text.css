@@ -1,0 +1,83 @@
+
+.texto{
+    display: inline-block;
+    color: #744748;
+    font-family: 'Sue Ellen Francisco', cursive;
+
+    font-weight: 400;
+    font-size: 96px;
+    line-height: 40px;
+
+}
+
+
+
+.textocenter{
+    text-align: center;
+    margin-top: 40px;
+  }
+
+.coracao{
+    margin-left: 125px;
+    padding-bottom: 5px;
+}
+
+
+.texth3{
+    display: inline-block;
+    color: #744748;
+    font-family: 'Andika', sans-serif;
+    padding-bottom: 30px;
+    margin-left: 49px;
+
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 52px;
+
+}
+
+.bololat{
+    display: flex;
+    justify-content: flex-end;
+
+}
+
+
+
+.brigadeiro{
+    display: flex;
+    font-family: 'Cabin';
+    color: #744748;
+    margin-left: 45px;
+    align-items: center;
+    gap: 30px;
+}
+
+.brigadeiro > img {
+    width: 160px;
+}
+
+.copo-felicidade{
+    display: flex;
+    font-family: 'Cabin';
+    color: #744748;
+    padding-top: 58px;
+    margin-left: 45px;
+    align-items: center;
+    gap: 30px;
+}
+
+.copo-felicidade > img{
+    width: 160px;
+}
+
+.cookies{
+    display: flex;
+    font-family: 'Carbin';
+    color: #744748;
+    padding-top: 58px;
+    margin-left: 45px;
+    align-items: center;
+    gap: 30px;
+}
+
